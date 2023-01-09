@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-I am currently working on rating President's website!
+Hi, my name is Hatice Kacer and I am a highly motivated and enthusiastic software developer. I am always seeking out new challenges and am eager to learn and grow as a professional. I have strong communication skills and am able to work effectively in both team and solo environments. I am confident in my abilities and have high self-esteem, which allows me to approach each new project with a positive attitude.
 
 
 # 💻 Tech Stack:
@@ -16,10 +16,6 @@ I am currently working on rating President's website!
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
 [![](https://visitcount.itsvg.in/api?id=hkacer&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
